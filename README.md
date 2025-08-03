@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akash Babu
 
-🎯 I'm a methodical and impact-driven AI Engineer & Data Scientist with over 3 years of experience building scalable ML/AI systems across finance, healthcare, and enterprise automation.
+🎯 I'm a Data Scientist with over 3 years of experience building scalable ML/AI systems across finance, healthcare, and enterprise automation.
 
 💡 I specialize in:
 
