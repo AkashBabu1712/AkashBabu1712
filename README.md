@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Akash+Babu+👋;Senior+Data+Scientist;Cybersecurity+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Akash+Babu;Senior+Data+Scientist;Cybersecurity+Analyst" alt="Typing SVG" />
   
   <p><i>Architecting scalable ML/AI systems and robust threat intelligence solutions.</i></p>
 
@@ -10,14 +10,25 @@
   <a href="mailto:kumar111aakash.in@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
+<br>
+
 ---
 
 ## 🚀 Executive Summary
 
-- 🎯 **Domain Expertise:** Designing end-to-end ML pipelines, anomaly detection systems, and risk models, particularly for high-stakes environments like banking, finance, and life sciences.
-- ⚙️ **Engineering Philosophy:** I approach machine learning and security not just as research, but as engineering challenges—ensuring solutions are highly scalable, secure, meticulously documented, and production-ready.
-- 💡 **Strategic Impact:** Proven track record in automating threat intelligence parsing, optimizing SOC log analysis, and driving cross-functional efficiency.
-- 🔍 **Current Status:** Exploring onsite Senior AI/Data Science and Cybersecurity opportunities. Immediate availability.
+🎯 I'm a Data Scientist & Security Analyst with over 3 years of experience building scalable ML/AI systems across finance, healthcare, and threat intelligence.
+
+💡 I specialize in:
+
+- End-to-end ML pipelines (from secure data ingestion to deployment)
+
+- Anomaly detection, network traffic analysis, and risk modeling
+
+- Automated threat intelligence parsing, log analysis, and professional branding tools
+
+🔍 Currently open to onsite AI/Data Science and Cybersecurity roles with immediate availability. 
+
+📦 I treat career growth and technical projects as engineering challenges—scalable, secure, documented, and community-ready.
 
 ---
 
