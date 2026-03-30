@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Akash+Babu;Senior+Data+Scientist;Cybersecurity+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Akash+Babu;Data+Scientist;Cybersecurity+Analyst" alt="Typing SVG" />
   
   <p><i>Architecting scalable ML/AI systems and robust threat intelligence solutions.</i></p>
 
@@ -9,6 +9,13 @@
   <a href="https://x.com/akashba77998089"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:kumar111aakash.in@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
+
+<div align="center">
+  <a href="https://akashbabu1712.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio Button" width="300" />
+  </a>
+</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600"/>
