@@ -124,3 +124,24 @@
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AkashBabu1712&icon=0&color=0" alt="Profile Views"></a>
 </div>
 
+## 📣 Let’s Connect
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Let's+Connect+Professionally!;Available+for+Onsite+AI+%26+Security+Roles" alt="Connect Banner">
+</div>
+
+<br>
+
+| <div align="center"><img src="https://img.icons8.com/fluency/48/map-marker.png" width="40"/><br><b>Address</b></div> | <div align="center"><img src="https://img.icons8.com/fluency/48/phone.png" width="40"/><br><b>Contact Number</b></div> | <div align="center"><img src="https://img.icons8.com/fluency/48/mail.png" width="40"/><br><b>Email Address</b></div> | <div align="center"><img src="https://img.icons8.com/fluency/48/document.png" width="40"/><br><b>Resume</b></div> |
+| :---: | :---: | :---: | :---: |
+| Noida, India | [+91 6393317305](tel:+916393317305) | [kumar111aakash.in@gmail.com](mailto:kumar111aakash.in@gmail.com) | [Download PDF](https://drive.google.com/file/d/1WRWXehSrG_PdfEGpW_5XlxpuDP8qEFXj/view?usp=drive_link) |
+
+<br>
+
+<div align="center">
+  <h3>Have a Question?</h3>
+  <a href="https://forms.gle/68dXxdffmQSepRBu7" target="_blank">
+    <img src="https://img.shields.io/badge/Click_Here_to_Ask_➔-4B5563?style=for-the-badge&logo=googleforms&logoColor=white" alt="Google Forms">
+  </a>
+</div>
+
