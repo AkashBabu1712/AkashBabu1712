@@ -132,13 +132,26 @@
 
 ### 🐍 Contribution Graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkashBabu1712/AkashBabu1712/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkashBabu1712/AkashBabu1712/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AkashBabu1712/AkashBabu1712/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+![GitHub Snake Light](https://raw.githubusercontent.com/AkashBabu1712/AkashBabu1712/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/AkashBabu1712/AkashBabu1712/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+---
+
+### 💡 Daily Inspiration
+> "The future belongs to those who teach machines to think ethically."
+
+### 🧩 Skill Progress
+- Cloud DevOps: ██████░░░░ 60%
+- AI Agents: ████████░░ 80%
+- Cybersecurity: █████░░░░░ 50%
+
+───────────────────────────────
+   N O V E L   I N S I G H T
+        E N G I N E ⚙️
+───────────────────────────────
 
 
 ---
