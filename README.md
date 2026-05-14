@@ -138,23 +138,6 @@
 
 ---
 
----
-
-### 💡 Daily Inspiration
-> "The future belongs to those who teach machines to think ethically."
-
-### 🧩 Skill Progress
-- Cloud DevOps: ██████░░░░ 60%
-- AI Agents: ████████░░ 80%
-- Cybersecurity: █████░░░░░ 50%
-
-───────────────────────────────
-   N O V E L   I N S I G H T
-        E N G I N E ⚙️
-───────────────────────────────
-
-
----
 <br>
 
 ## 📣 Let’s Connect
